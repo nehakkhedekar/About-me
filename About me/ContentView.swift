@@ -19,7 +19,7 @@ struct ContentView: View {
           Button("Let me tell you some things about me!"){
               fact1 = "I have 1 older brother"
               fact2 = "I loveeee Thai food"
-              fact3 = "Boston is my favorite city!"
+              fact3 = "Chicago is my favorite city!"
               
           }
             
